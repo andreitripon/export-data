@@ -1,5 +1,6 @@
 <?php
-namespace ExportData\Export;
+namespace ExportData\Type;
+
 use ExportData\Export;
 
 class CSV extends Export{
