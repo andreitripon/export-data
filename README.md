@@ -1,17 +1,7 @@
 # ExportData
 ## Installation
-```json
-{
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:andreitripon/export-data.git"
-    }
-  ],
-  "require": {
-    "andreitripon/export-data": "dev-master"
-  }
-}
+```bash
+$ composer require andreitripon/export-data
 ```
 
 ## Examples
