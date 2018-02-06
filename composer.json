@@ -1,0 +1,19 @@
+{
+    "name": "andreitripon/export-data",
+    "description": "Export data",
+    "version": "master",
+    "keywords": [
+        "export",
+        "csv"
+    ],
+    "homepage": "https://github.com/andreitripon/export-data",
+    "dist": {
+        "url": "git@github.com:andreitripon/export-data.git",
+        "type": "git"
+    },
+    "autoload": {
+        "psr-4": {
+            "ExportData\\": "src/"
+        }
+    }
+}
