@@ -1,7 +1,14 @@
 {
     "name": "andreitripon/export-data",
-    "description": "Export data",
+    "description": "Export data (csv)",
     "version": "master",
+    "authors": [
+        {
+            "name": "Andrei Tripon",
+            "homepage": "https://github.com/andreitripon",
+            "role": "Developer"
+        }
+    ],
     "keywords": [
         "export",
         "csv"
