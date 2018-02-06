@@ -2,6 +2,7 @@
     "name": "andreitripon/export-data",
     "description": "Export data (csv)",
     "version": "master",
+    "license": "MIT",
     "authors": [
         {
             "name": "Andrei Tripon",
